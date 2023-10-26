@@ -1,0 +1,17 @@
+{
+  "name": "fun-target-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vspatil",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.2",
+    "electron-builder": "^10.17.3",
+    "electron-packager": "^15.4.0"
+  }
+}
